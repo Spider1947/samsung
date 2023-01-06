@@ -1,0 +1,1 @@
+print("Icc T20 world cup 2023")
