@@ -1,7 +1,0 @@
-To github.com:Spider1947/Universe.git
-   2eae550..fff47d2  master -> master
-branch 'master' set up to track 'origin/master'.
-
-786@DESKTOP-0AA01P4 MINGW64 ~/Laser (master)
-$
-"Wonderful palace that is golgumbaz"
